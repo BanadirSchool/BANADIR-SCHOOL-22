@@ -48,8 +48,8 @@
                     </tr>
                     <tr>
                         <td> SECURITY</td>
-                        <td>Lama Hayo</td>
-                        <td> Z
+                        <td>70</td>
+                        <td> C
                         <td> COMPUTER
                         </td>
                    
