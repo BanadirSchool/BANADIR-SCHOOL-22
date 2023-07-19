@@ -20,7 +20,7 @@
                         <td>  A+
                         <td> COMPUTER</td>
                     </td>
-                </tr>
+           
             
                 <tr>
                     <td> MS- WORD </td>
@@ -29,7 +29,7 @@
                     </td>
                     <td> COMPUTER
                     </td>
-                </tr>
+          
                 <tr>   
                     <td> M-S EXCEL </td>
                     <td>100
@@ -37,7 +37,7 @@
                     </td>
                     <td> COMPUTER
                     </td>
-                </tr>
+        
                
                 <tr>
                         <td>M-S POWER POINT </td>
@@ -45,7 +45,7 @@
                         <td> A+
                         <td> COMPUTER
                         </td>
-                    </tr>
+               
                     <tr>
                         <td> SECURITY</td>
                         <td>70</td>
